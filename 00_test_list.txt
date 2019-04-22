@@ -1,0 +1,18 @@
+// files that end in .txt list other tests
+// other lines are assumed to be .html files
+
+N=1024,it=1/shared.html
+N=1024,it=1/vec4.html
+N=1024,it=1/shared_vec4.html
+
+N=1024,it=2/shared.html
+N=1024,it=2/vec4.html
+N=1024,it=2/shared_vec4.html
+
+N=512,it=1/shared.html
+N=512,it=1/vec4.html
+N=512,it=1/shared_vec4.html
+
+N=512,it=2/shared.html
+N=512,it=2/vec4.html
+N=512,it=2/shared_vec4.html
